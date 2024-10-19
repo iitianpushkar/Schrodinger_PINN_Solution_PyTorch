@@ -1,0 +1,1 @@
+# Schrodinger_PINN_Solution_PyTorch
